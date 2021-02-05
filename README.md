@@ -7,7 +7,7 @@ python makevid.py imagetime imgformat audiofile musicfile thing(shutterstock,get
 
 
 NEEDED:
-pip
-Windows
-python 3.7
+pip,
+Windows,
+python 3.7,
 Internet
